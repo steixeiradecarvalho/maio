@@ -1,0 +1,17 @@
+{
+  "name": "maio",
+  "version": "1.0.0",
+  "description": "Sede Virtual da Maio",
+  "main": "web.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sergio Teixeira de Carvalho <steixeiradecarvalho@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+  "engines": {
+    "node": "5.9.1"
+  }
+}
